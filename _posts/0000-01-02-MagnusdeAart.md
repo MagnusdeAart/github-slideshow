@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+How many tasks do i still have to do? :shipit: 
 Use the left arrow to go back!
